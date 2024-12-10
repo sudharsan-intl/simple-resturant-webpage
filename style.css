@@ -1,0 +1,135 @@
+*{
+
+     padding: 0%;
+     margin: 0%;
+
+
+}
+
+
+
+*{
+
+
+    font-family: "Poppins", serif;
+
+}
+   
+.section-one{
+
+         background-color: black;color: aliceblue;
+         text-align: center;
+          padding: 20px;
+
+}
+
+
+
+
+
+
+
+
+.section-two__desc{
+                        font-size: 15px;
+                
+                        font-family: "Poppins", serif;
+
+                           margin-top: 2px;
+
+
+}
+.section-two__role{
+    background-color: black;
+     text-align: center;
+     color: aliceblue;
+     font-family: "Poppins", serif;
+}
+
+
+  .section-two__title{
+
+    font-family: "Poppins", serif;
+    font-size: 25px;
+                   
+  }
+
+
+  .section-two{
+                 
+                   padding-left: 300px;
+
+                   margin-top: 10px;
+                
+  }
+  .section-three__desc{
+
+         font-family: "Poppins", serif;
+         font size: 50px; 
+
+
+
+  }
+  .section-four__title{
+
+
+                font-size: 25px;
+                font-family:"Poppins", serif; 
+
+  }
+
+
+  .section-four__role{
+
+                  background-color: black;color: aliceblue;
+
+           
+  }
+  .section-four__desc{
+
+                     font-size: 17px;
+                     font-family:"Poppins", serif;
+
+  }
+  .section-two,.section-three,.section-four{
+    display: inline-block;
+    text-align: center;
+    margin-top: 15px;
+   
+   vertical-align: top;
+      
+
+  }
+
+
+  .section-five{
+
+                background-color: black;
+                color: aliceblue;
+                padding: 30px;
+                border-radius: 15px;
+                margin-top: 10px;
+             
+                
+ }
+              
+
+.section-five{
+
+                text-align: center;
+                 padding-left: 600px;
+}
+       .section-five__name{
+
+                  background-color: chartreuse;
+                  color: black;
+                  
+                  font-size: 15px;
+                  font-family:"Poppins", serif; 
+
+                      
+            
+                
+
+
+       }
